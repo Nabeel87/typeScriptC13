@@ -1,3 +1,4 @@
+"use strict";
 // console.log("hello World from TS");
 // let a  = 1 ; 
 // a = true;
@@ -12,3 +13,4 @@ var isActiveMember = true;
 var cources = ["a", "b", "c", "d"];
 // let fullName: number = firstName + age;
 var fullName = firstName + lastName + age;
+//# sourceMappingURL=sample.js.map
