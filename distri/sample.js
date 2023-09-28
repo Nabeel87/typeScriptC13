@@ -13,4 +13,3 @@ var isActiveMember = true;
 var cources = ["a", "b", "c", "d"];
 // let fullName: number = firstName + age;
 var fullName = firstName + lastName + age;
-//# sourceMappingURL=sample.js.map
